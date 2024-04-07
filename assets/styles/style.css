@@ -12,8 +12,7 @@
         url(/assets/fonts/Roboto/Roboto-Bold.ttf) format(ttf),
         url(/assets/fonts/Roboto/Roboto-Italic.ttf) format(ttf),
         url(/assets/fonts/Roboto/Roboto-Regular.ttf) format(ttf);
-  }
-
+}
 
 :root{
     --main-bg-color:#782221;
@@ -24,7 +23,6 @@ html{
     /* font-size: 62.5%; equivalent to 10px*/
     font-family: "Roboto", sans-serif;
 }
-
 
 /*
     +-----------------------------------------------+
@@ -196,7 +194,6 @@ html{
 
 }
 
-
 /*
     +-----------------------------------------------+
     |               MOBILE VERSION                  |
@@ -361,5 +358,4 @@ html{
     .icons img{
         width: 2.5em;
     }
-
 }
